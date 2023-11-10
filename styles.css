@@ -1,0 +1,609 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body background color and text color */
+  body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #111;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Hero section styles */
+  .hero {
+    background-image: url('images/hero-background.jpg');
+    background-size: cover;
+    text-align:center;
+    padding: 100px 0;
+  }
+
+  .logo {
+    max-width: 300px; /* Adjust the size as needed */
+    max-height: 300px; /* Adjust the size as needed */
+  }
+  .hero h1 {
+    font-size: 36px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    background-color: #f39c12;
+    color: #222;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  /* Key offerings section styles */
+  .key-offerings {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .offering {
+    margin: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+  }
+  
+  .offering img {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .offering h3 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #111;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: #f39c12;
+  }
+  /* Reset some default styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body background color and text color */
+  body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #111;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Services section styles */
+  .services {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .service {
+    margin: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .service h2 {
+    font-size: 24px;
+  }
+  
+  .service img {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .service p {
+    font-size: 18px;
+    margin: 20px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #111;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: #f39c12;
+  }
+  /* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body background color and text color */
+  body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #111;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* About section styles */
+  .about {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .about h1 {
+    font-size: 36px;
+  }
+  
+  .story, .team {
+    margin: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .story h2, .team h2 {
+    font-size: 24px;
+  }
+  
+  .story p, .team p {
+    font-size: 18px;
+    margin: 20px 0;
+    color: #fff;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #111;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: #f39c12;
+  }
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body background color and text color */
+  body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #111;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Contact section styles */
+  .contact {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .contact h1 {
+    font-size: 36px;
+  }
+  
+  .contact-info, .contact-form {
+    margin: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .contact-info h2, .contact-form h2 {
+    font-size: 24px;
+  }
+  
+  .contact-info p {
+    font-size: 18px;
+    margin: 20px 0;
+    color: #fff;
+  }
+  
+  .contact-form form {
+    text-align: left;
+  }
+  
+  .contact-form label {
+    display: block;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .contact-form input[type="submit"] {
+    background-color: #f39c12;
+    color: #222;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #111;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: #f39c12;
+  }
+
+
+  /* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body background color and text color */
+  body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  /* Page content styles */
+  h1 {
+    font-size: 36px;
+    margin: 40px 0;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: #f39c12;
+  }
+  
+.logo2{
+  max-width: 300px; /* Adjust the size as needed */
+  max-height: 300px; /* Adjust the size as needed */
+}
+
+.logo3{
+  max-width: 300px; /* Adjust the size as needed */
+  max-height: 300px; /* Adjust the size as needed */
+}
+
+.logo4{
+  max-width: 300px; /* Adjust the size as needed */
+  max-height: 300px; /* Adjust the size as needed */
+}
+
+
+
+/*Animation*/
+
+.logo {
+  animation: bounce 2s ease infinite;
+}
+
+/* Define the new animation */
+@keyframes bounce {
+  0%, 100% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-10px);
+  }
+}
+
+
+/* Animate the hero section text */
+.hero h1 {
+  animation: slideInLeft 1s forwards;
+}
+
+.hero p {
+  animation: fadeIn 2s;
+}
+
+/* Animate the key offerings text */
+.offering h3 {
+  animation: fadeIn 1s;
+}
+
+.offering p {
+  animation: slideInUp 1s;
+}
+
+/* Define the animations */
+@keyframes slideInLeft {
+  0% { transform: translateX(-50px); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+/* Animate the offerings section text */
+.offering {
+  animation: slideInLeft 1s forwards;
+}
+
+.offering img {
+  animation: fadeIn 2s;
+}
+
+/* Define the animations */
+@keyframes slideInLeft {
+  0% { transform: translateX(-50px); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.logo3 {
+  animation: bounce 2s infinite; /* Increase the animation duration to slow it down */
+}
+
+/* Define the slower bouncing animation for the logo */
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(-10px);
+  }
+  60% {
+      transform: translateY(-5px);
+  }
+}
+
+/* Animate the logo to bounce */
+.logo2 {
+  animation: bounce 2s infinite;
+}
+
+/* Define the bouncing animation for the logo */
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(-10px);
+  }
+  60% {
+      transform: translateY(-5px);
+  }
+}
+
+/* Animate the "about" section text */
+.about h1 {
+  animation: fadeIn 2s;
+}
+
+.story,
+.team {
+  animation: slideInUp 1s;
+}
+
+/* Define the animations */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+
+/* Animate the logo to bounce */
+.logo4 {
+  animation: bounce 2s infinite;
+}
+
+/* Define the bouncing animation for the logo */
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(-10px);
+  }
+  60% {
+      transform: translateY(-5px);
+  }
+}
+
+/* Animate the "contact" section text */
+
+/* Define the animations */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideInRight {
+  0% { transform: translateX(20px); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+
+/* styles.css */
+.background-image {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background-image2{
+  background-image: url("images/background2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background-image3{
+  background-image: url("images/background4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background-image4{
+  background-image: url("images/background5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.response-end{
+  padding: 40px;
+}
